@@ -58,6 +58,94 @@
  - **Conference** : Chapter 3 - (seconde 10 page)
 
 
+## دروس ارشد
+
+[1115026_01	متدولوژی ایجاد نرم افزار 	3](https://github.com/saharrajabi/PNU_3991_AR/tree/gh-pages/)
+<br>
+[1115280_01	مهندسی نرم افزار 	3](https://github.com/saharrajabi/PNU_3991_AR/tree/gh-pages/)
+<br>
+
+
+--------------
+<table style="width:100%" >
+            <tr>
+             <th >ملاحضات</th>
+             <th >20-22</th>
+             <th >18-20</th>
+              <th >16-18</th>
+              <th >14-16</th>
+              <th >12-14</th>
+              <th>10-12</th>
+              <th>8-10</th>
+              <th>روز</th>
+            </tr>
+            <tr>
+              <th></th>
+              <th style="background-color: dimgrey;">ترجمه کتاب</th>
+              <th style="background-color: darkgray;">Javascript</th>
+              <th style="background-color: darkorange;">مطالعه دروس</th>
+              <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th style="background-color: darkcyan;">سرکار</th>
+              <th>شنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>یک شنبه</th>
+            </tr>
+             <tr>
+               <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>دوشنبه</th>
+            </tr>
+             <tr>
+                 <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color: darkgray;">Javascript</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>سه شنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color:red;">کلاس مهندسی نیازمندی ها</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>چهارشنبه</th>
+            </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey;">ترجمه کتاب</th>
+                <th style="background-color:red;">ازاد</th>
+                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: darkcyan;">کلاس متودولوژی ایجاد نرم افزار</th>
+                <th style="background-color: darkcyan;">کلاس معماری نرم افزار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+              <th>پنج شنبه</th>
+            </tr>
+          </table> 
 
 
 
